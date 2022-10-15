@@ -1,0 +1,1 @@
+/workspace/web3-curriculum/build-a-smart-contract-in-rust/target/wasm32-unknown-unknown/release/libbuild_a_smart_contract_in_rust.rlib: /workspace/web3-curriculum/build-a-smart-contract-in-rust/src/lib.rs
